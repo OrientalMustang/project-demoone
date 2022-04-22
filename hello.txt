@@ -11,6 +11,7 @@ you first try git     wo shi hot-fix fenzhi shang de
 
 this is the flolder is fix !!!!
 
+hot-fix hot-fix
 
 
 
